@@ -1,25 +1,62 @@
-import logo from './logo.svg';
-import './App.css';
+import React, { useEffect } from 'react';
+import { connect } from 'react-redux';
+import { getAllCategories } from './actions/categoriesActions';
+import SelectDropdown from './components/SelectDropdown';
+import Header from './components/Header';
+import { getProducts } from './actions/productsActions';
+import Product from './components/Product';
 
-function App() {
+const App = ({ categories, dispatch, products, loading_info }) => {
+  useEffect(() => {
+    dispatch(getAllCategories());
+  }, [dispatch]);
+
+  const handleCategoryChange = (event) => {
+    const category = event.target.value.trim();
+    if (category) {
+      dispatch(getProducts(category));
+    }
+  };
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <Header />
+      <div className="category-dropdown">
+        {categories.length === 0 ? (
+          "Loading..."
+        ) : (
+          <SelectDropdown
+            categories={categories}
+            handleCategoryChange={handleCategoryChange}
+          />
+        )}
+      </div>
+      {loading_info.error && <p className="errorMsg">{loading_info.error}</p>}
+      <div>
+        <ul className="products">
+          {loading_info.loading ? (
+            <p>Loading...</p>
+          ) : (
+            <React.Fragment>
+              {products.map(({ name, image }) => {
+                return <Product key={name} name={name} image={image} />;
+              })}
+            </React.Fragment>
+          )}
+        </ul>
+      </div>
     </div>
   );
-}
+};
 
-export default App;
+const mapStateToProps = (state) => {
+  const { categories, products, loading_info } = state;
+
+  return {
+    categories,
+    products,
+    loading_info
+  };
+};
+
+export default connect(mapStateToProps)(App);

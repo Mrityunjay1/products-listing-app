@@ -1,0 +1,168 @@
+[
+    {
+      "name": "Margherita",
+      "category": "Pizza",
+      "image": "https://res.cloudinary.com/dyatqxvue/image/upload/v1622453436/non_veg_burger_842d46f9c2.jpg"
+    },
+    {
+      "name": "Double Cheese Margherita",
+      "category": "Pizza",
+      "image": "https://res.cloudinary.com/dyatqxvue/image/upload/v1622453436/non_veg_burger_842d46f9c2.jpg"
+    },
+    {
+      "name": "Peppy Paneer",
+      "category": "Pizza",
+      "image": "https://res.cloudinary.com/dyatqxvue/image/upload/v1622453436/non_veg_burger_842d46f9c2.jpg"
+    },
+    {
+      "name": "Veg Extravaganza",
+      "category": "Pizza",
+      "image": "https://res.cloudinary.com/dyatqxvue/image/upload/v1622453436/non_veg_burger_842d46f9c2.jpg"
+    },
+    {
+      "name": "Veggie Paradise",
+      "category": "Pizza",
+      "image": "https://res.cloudinary.com/dyatqxvue/image/upload/v1622453436/non_veg_burger_842d46f9c2.jpg"
+    },
+    {
+      "name": "Paneer Makhani",
+      "category": "Pizza",
+      "image": "https://res.cloudinary.com/dyatqxvue/image/upload/v1622453436/non_veg_burger_842d46f9c2.jpg"
+    },
+    {
+      "name": "Chicken Golden Delight",
+      "category": "Pizza",
+      "image": "https://res.cloudinary.com/dyatqxvue/image/upload/v1622453436/non_veg_burger_842d46f9c2.jpg"
+    },
+    {
+      "name": "Non Veg Supreme",
+      "category": "Pizza",
+      "image": "https://res.cloudinary.com/dyatqxvue/image/upload/v1622453436/non_veg_burger_842d46f9c2.jpg"
+    },
+    {
+      "name": "Chicken Fiesta",
+      "category": "Pizza",
+      "image": "https://res.cloudinary.com/dyatqxvue/image/upload/v1622453436/non_veg_burger_842d46f9c2.jpg"
+    },
+    {
+      "name": "Chicken Sausage",
+      "category": "Pizza",
+      "image": "https://res.cloudinary.com/dyatqxvue/image/upload/v1622453436/non_veg_burger_842d46f9c2.jpg"
+    },
+    {
+      "name": "Pepper Barbecue & Onion",
+      "category": "Pizza",
+      "image": "https://res.cloudinary.com/dyatqxvue/image/upload/v1622453436/non_veg_burger_842d46f9c2.jpg"
+    },
+    {
+      "name": "Indi Chicken Tikka",
+      "category": "Pizza",
+      "image": "https://res.cloudinary.com/dyatqxvue/image/upload/v1622453436/non_veg_burger_842d46f9c2.jpg"
+    },
+    {
+      "name": "Veg Whopper",
+      "category": "Burgers",
+      "image": "https://res.cloudinary.com/dyatqxvue/image/upload/v1622453436/non_veg_burger_842d46f9c2.jpg"
+    },
+    {
+      "name": "King Egg Burger",
+      "category": "Burgers",
+      "image": "https://res.cloudinary.com/dyatqxvue/image/upload/v1622453436/non_veg_burger_842d46f9c2.jpg"
+    },
+    {
+      "name": "Crispy Chicken Double Patty",
+      "category": "Burgers",
+      "image": "https://res.cloudinary.com/dyatqxvue/image/upload/v1622453436/non_veg_burger_842d46f9c2.jpg"
+    },
+    {
+      "name": "Mango Ice Cream",
+      "category": "Desserts",
+      "image": "https://res.cloudinary.com/dyatqxvue/image/upload/v1622453436/non_veg_burger_842d46f9c2.jpg"
+    },
+    {
+      "name": "Mango Kulfi",
+      "category": "Desserts",
+      "image": "https://res.cloudinary.com/dyatqxvue/image/upload/v1622453436/non_veg_burger_842d46f9c2.jpg"
+    },
+    {
+      "name": "Chicken Biryani",
+      "category": "Biryani",
+      "image": "https://res.cloudinary.com/dyatqxvue/image/upload/v1622453436/non_veg_burger_842d46f9c2.jpg"
+    },
+    {
+      "name": "Hyderbadi Biryani",
+      "category": "Biryani",
+      "image": "https://res.cloudinary.com/dyatqxvue/image/upload/v1622453436/non_veg_burger_842d46f9c2.jpg"
+    },
+    {
+      "name": "Mutton Biryani",
+      "category": "Biryani",
+      "image": "https://res.cloudinary.com/dyatqxvue/image/upload/v1622453436/non_veg_burger_842d46f9c2.jpg"
+    },
+    {
+      "name": "Black Forest Cake",
+      "category": "Desserts",
+      "image": "https://res.cloudinary.com/dyatqxvue/image/upload/v1622453436/non_veg_burger_842d46f9c2.jpg"
+    },
+    {
+      "name": "Customizable Cake",
+      "category": "Desserts",
+      "image": "https://res.cloudinary.com/dyatqxvue/image/upload/v1622453436/non_veg_burger_842d46f9c2.jpg"
+    },
+    {
+      "name": "Masala Dosa",
+      "category": "Breakfast",
+      "image": "https://res.cloudinary.com/dyatqxvue/image/upload/v1622453436/non_veg_burger_842d46f9c2.jpg"
+    },
+    {
+      "name": "Omlette",
+      "category": "Breakfast",
+      "image": "https://res.cloudinary.com/dyatqxvue/image/upload/v1622453436/non_veg_burger_842d46f9c2.jpg"
+  
+    },
+    {
+      "name": "Barbeque Burger",
+      "category": "Burgers",
+      "image": "https://res.cloudinary.com/dyatqxvue/image/upload/v1622453436/non_veg_burger_842d46f9c2.jpg"
+    },
+    {
+      "name": "Crispy Chicken Burger",
+      "category": "Burgers",
+      "image": "https://res.cloudinary.com/dyatqxvue/image/upload/v1622453436/non_veg_burger_842d46f9c2.jpg"
+    },
+    {
+      "name": "Non Veg Burger",
+      "category": "Burgers",
+      "image": "https://res.cloudinary.com/dyatqxvue/image/upload/v1622453436/non_veg_burger_842d46f9c2.jpg"
+    },
+    {
+      "name": "Veg Krisper Burger",
+      "category": "Burgers",
+      "image": "https://res.cloudinary.com/dyatqxvue/image/upload/v1622453446/veg_krisper_burger_307eb32cf1.jpg"
+    },
+    {
+      "name": "Veg Sandwich",
+      "category": "Sandwiches",
+      "image": "https://res.cloudinary.com/dyatqxvue/image/upload/v1622460550/sandwich_b7e224d5d2.png"
+    },
+    {
+      "name": "Mixed Veg Sandwich",
+      "category": "Sandwiches",
+      "image": "https://res.cloudinary.com/dyatqxvue/image/upload/v1622453422/bread_sandwich_81779e7b41.jpg"
+    },
+    {
+      "name": "Special Bread Sandwich",
+      "category": "Sandwiches",
+      "image": "https://res.cloudinary.com/dyatqxvue/image/upload/v1622453425/bread_special_64dfe6bd1e.jpg"
+    },
+    {
+      "name": "Latte Coffee",
+      "category": "Breakfast",
+      "image": "https://res.cloudinary.com/dyatqxvue/image/upload/v1622453430/latte_coffee_199eb229ea.jpg"
+    },
+    {
+      "name": "Milk Shake",
+      "category": "Breakfast",
+      "image": "https://res.cloudinary.com/dyatqxvue/image/upload/v1622453431/milk_shake_073e2ece82.jpg"
+    }
+  ]
